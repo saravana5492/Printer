@@ -13,4 +13,10 @@ public class Logger {
     public static func printTheData() {
         print("I'm priting via Swift Package Manager")
     }
+    
+    /// Print upgraded Value data
+    public static func printaotherTheData() {
+        print("I'm printing upgrtaded data")
+    }
+
 }
