@@ -19,4 +19,9 @@ public class Logger {
         print("I'm printing upgrtaded data")
     }
 
+    /// Minor version increased
+    public static func minorVersionHasBeenIncresed() {
+        print("Minor version increased")
+    }
+    
 }
