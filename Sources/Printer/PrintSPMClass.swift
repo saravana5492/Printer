@@ -7,7 +7,7 @@
 
 import Foundation
 
-public class Logger {
+public class LoggerNameChanged {
     
     /// This function is using print dummy data
     public static func printTheData() {
